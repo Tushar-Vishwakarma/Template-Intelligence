@@ -93,6 +93,7 @@ The core logic is located in the `Component` function:
 - **Select Success Pattern**: High Engagement, Quick Conversion, or Long-term Value.
 
 Click the **Generate Template** button to see the result. A loading spinner appears, and after 2 seconds, your personalized template will be shown.
+
 ---
 ![Template intelligence](https://github.com/user-attachments/assets/1ddda61f-2832-4c00-b496-4dae92a9789e)
 
